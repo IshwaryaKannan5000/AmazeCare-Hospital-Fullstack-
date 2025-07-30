@@ -1,0 +1,847 @@
+/* General Styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-image: url('https://img.freepik.com/free-photo/copy-space-medical-desk_23-2148519719.jpg?ga=GA1.1.509949489.1744777496&semt=ais_hybrid&w=740');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+
+/* Dashboard Container */
+.pa-dashboard {
+  padding-top: 80px;
+}
+
+/* Navbar Design */
+.pa-navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(90deg, #0066cc, #3399ff);
+  padding: 20px 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  z-index: 999;
+}
+
+/* Title */
+
+.pa-navbar h1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+  color: #fff; /* White text color to contrast with the gradient background */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Optional: adds a subtle shadow for better readability */
+  white-space: nowrap; /* Prevents the text from wrapping to the next line */
+}
+
+
+
+/* Nav Menu */
+.pa-navbar nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+}
+
+
+
+
+.pa-navbar nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.pa-navbar nav ul li a:hover {
+  color: #ffdd57;
+}
+
+/* Menu Icon (Hamburger) */
+.pa-menu-icon {
+  display: none;
+  font-size: 30px;
+  cursor: pointer;
+  padding-left: 100px; 
+}
+
+/* For mobile */
+@media (max-width: 768px) {
+  .pa-menu-icon {
+    display: block;
+  }
+
+  .pa-navbar nav {
+    display: none;
+    flex-direction: column;
+    background-color: #0066cc;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    padding: 10px;
+  }
+
+  .pa-navbar nav.active {
+    display: flex;
+  }
+
+  .pa-navbar nav ul {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .pa-navbar nav ul li {
+    text-align: center;
+  }
+}
+
+/* ///menu design */
+
+
+
+/* Content Area */
+.pa-content {
+  padding: 0 50px; /* Removed top padding */
+}
+
+/* Dashboard Cards */
+.pa-section {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 0;
+}
+
+/* Container for the welcome message and cards */
+.pa-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+/* Styling for the greeting card */
+.greeting-card {
+  background-color: #f7f8f8;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  
+}
+/* Welcome message styling */
+.pa-welcome {
+  font-size: 45px;
+  font-weight: 700;
+  margin-top: 10px;   /* Space from fixed navbar */
+ 
+  color: #6fb3eb;
+  text-align: left;
+  width: 100%;
+}
+
+
+/* Styling for the cards container to align cards in a row */
+.pa-cards-container {
+  display: flex;
+  flex-wrap: wrap; /* Allows wrapping if the screen size is smaller */
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  gap: 5px;
+  width: 100%;
+}
+
+/* Styling for each card */
+.pa-card {
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 5px;
+  cursor: pointer;
+  text-align: center;
+  width: calc(20% - 20px); /* Ensure all cards have equal width */
+  box-sizing: border-box;
+  transition: transform 0.3s ease;
+}
+
+/* Hover effect */
+.pa-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Heading and paragraph inside the cards */
+.pa-card h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.pa-card p {
+  font-size: 1rem;
+}
+
+/* Different colors for each card */
+.pa-card:nth-child(1) {
+  background-color: #e74c3c; /* Red */
+  color: white;
+}
+
+.pa-card:nth-child(2) {
+  background-color: #3498db; /* Blue */
+  color: white;
+}
+
+.pa-card:nth-child(3) {
+  background-color: #2ecc71; /* Green */
+  color: white;
+}
+
+.pa-card:nth-child(4) {
+  background-color: #f39c12; /* Yellow */
+  color: white;
+}
+
+.pa-card:nth-child(5) {
+  background-color: #9b59b6; /* Purple */
+  color: white;
+}
+
+/* Ensure responsiveness on smaller screens */
+@media (max-width: 768px) {
+  .pa-card {
+    width: calc(50% - 20px); /* Two cards per row */
+  }
+}
+
+@media (max-width: 480px) {
+  .pa-card {
+    width: 100%; /* One card per row */
+  }
+}
+
+
+
+/* Appointment Table */
+.pa-appointment-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.pa-appointment-table th,
+.pa-appointment-table td {
+  padding: 15px 20px;
+  border-bottom: 1px solid #eee;
+  text-align: center;
+}
+
+.pa-appointment-table th {
+  background-color: #0a4275;
+  color: white;
+}
+
+.pa-cancel-btn,
+.pa-reschedule-btn {
+  margin: 0 5px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.pa-cancel-btn {
+  background-color: #ff4d4d;
+  color: white;
+}
+
+.pa-reschedule-btn {
+  background-color: #ffaa00;
+  color: white;
+}
+
+.pa-cancel-btn:hover {
+  background-color: #e60000;
+}
+
+.pa-reschedule-btn:hover {
+  background-color: #e69500;
+}
+
+/* Back Button */
+.pa-back-btn {
+  margin-bottom: 20px;
+  padding: 10px 15px;
+  background-color: #0a4275;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.pa-back-btn:hover {
+  background-color: #08355e;
+}
+
+/* Medical History Section */
+.pa-history-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+  gap: 20px;
+  margin-top: 25px;
+}
+
+.pa-history-card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.pa-history-card label {
+  font-weight: 600;
+  color: #0a4275;
+}
+
+.pa-update-medical-btn {
+  margin-top: 25px;
+  padding: 12px 20px;
+  background-color: #0a4275;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  float: right;
+}
+
+.pa-update-medical-btn:hover {
+  background-color: #08355e;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    gap: 10px;
+    background-color: #0a4275;
+  }
+
+  .pa-content {
+    padding: 20px;
+  }
+
+  .pa-card {
+    padding: 20px;
+  }
+
+  .pa-logo h1 {
+    font-size: 18px;
+  }
+}
+/* 
+///////////////////////////////////////////////////// */
+
+/* Search Bar */
+.search-bar {
+  display: flex;
+  justify-content: center;
+  padding-left: 50px;
+  margin: 20px 0 30px 0; /* top and bottom spacing */
+}
+
+.search-bar input {
+  width: 300px;
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  transition: 0.3s ease;
+  background-color: #dde9f5;
+  color: #0d110f;
+} 
+
+.search-bar input:focus {
+  outline: none;
+  border-color: #007BFF;
+  box-shadow: 0 0 5px rgba(0,123,255,0.3);
+}
+
+#doctorList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px; /* space between cards */
+  margin-top: 20px;
+}
+.doctor-card {
+  background: white;
+  text-align: center;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  width: 230px;
+  cursor: pointer;
+}
+
+.doctor-card h3 {
+  margin: 10px 0 5px;
+  font-size: 18px;
+  color: #333;
+  font-weight: bold;
+}
+
+.doctor-card p {
+  font-size: 14px;
+  color: #777;
+}
+
+.doctor-card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+/* Hover Effect for Doctor Cards */
+.doctor-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Doctor Details Section */
+.doctor-profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.doctor-details {
+  padding: 30px;
+  background-color: #f9f9f9;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.doctor-details img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.doctor-details h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.doctor-details p {
+  font-size: 16px;
+  color: #555;
+}
+
+.doctor-details button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  margin-top: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.doctor-details button:hover {
+  background-color: #0056b3;
+}
+
+/* Appointment Form */
+.appointment-form {
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.appointment-form label {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: #333;
+  display: block;
+}
+
+.appointment-form input,
+.appointment-form select {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.appointment-form input:focus,
+.appointment-form select:focus {
+  outline: none;
+  border-color: #007BFF;
+}
+
+.appointment-form button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-right: 10px;
+}
+
+.appointment-form button:hover {
+  background-color: #218838;
+}
+
+.cancel-btn {
+  background-color: #dc3545;
+}
+
+.cancel-btn:hover {
+  background-color: #c82333;
+}
+
+/* Back Button */
+.back-btn {
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  padding: 8px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.back-btn:hover {
+  background-color: #e2e6ea;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  #doctorList {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .doctor-card {
+      width: 80%;
+      margin-bottom: 20px;
+  }
+
+  .doctor-details {
+      width: 90%;
+  }
+
+  .appointment-form {
+      width: 100%;
+  }
+}
+
+
+/* //////////////////////////////////////////////// */
+
+/* 🔍 Filter & Search Controls */
+.pa-filter-controls {
+  display: flex;
+  justify-content: center; /* Center the filter controls */
+  align-items: center;
+  margin-bottom: 10px;
+  margin-top: 80px;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-right: 80px;
+}
+
+.pa-filter-controls select,
+.pa-filter-controls input[type="text"] {
+  padding: 6px 10px; /* Smaller size */
+  font-size: 12px; /* Smaller font size */
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.3s;
+  max-width: 200px; /* Limit input width */
+  background-color: #eaf1f3; /* Light blue background */
+  color: black; /* Set text color to black */
+}
+
+.pa-filter-controls select:focus,
+.pa-filter-controls input[type="text"]:focus {
+  border-color: #377281;
+}
+
+/* To ensure the filter control aligns to the center of the table */
+.pa-appointment-table {
+  width: 100%;
+  margin-top: 10px; /* Give space between the table and filter */
+}
+
+/* 📄 Pagination Controls */
+.pa-pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  gap: 8px;
+}
+
+.pa-pagination button {
+  background-color: #f0f0f0;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 8px 10px; /* Smaller padding */
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px; /* Smaller font size */
+  transition: all 0.2s ease-in-out;
+}
+
+.pa-pagination button:hover {
+  background-color: #4caf50;
+  color: white;
+  border-color: #2a5d86;
+}
+
+.pa-pagination button:disabled {
+  background-color: #e0e0e0;
+  color: #aaa;
+  cursor: not-allowed;
+}
+
+.pa-pagination button.active-page {
+  background-color: #4caf50;
+  color: white;
+  border-color: #4caf50;
+}
+
+@media (max-width: 768px) {
+  /* Responsive adjustments for pagination buttons */
+  .pa-pagination button {
+    padding: 4px 6px; /* Smaller padding on mobile */
+    font-size: 10px; /* Smaller text for mobile screens */
+  }
+}
+
+/* 📋 Appointment Table Enhancements */
+.pa-appointment-table {
+  width: 100%;
+  table-layout: auto; /* Ensures columns resize */
+  border-collapse: collapse;
+}
+
+.pa-appointment-table th,
+.pa-appointment-table td {
+  padding: 10px 15px; /* Add padding for better readability */
+  text-align: left;
+}
+
+/* Responsive for smaller screens */
+@media (max-width: 768px) {
+  .pa-filter-controls {
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .pa-appointment-table th,
+  .pa-appointment-table td {
+    font-size: 12px; /* Smaller font size */
+    padding: 8px 10px;
+  }
+
+  .pa-pagination button {
+    font-size: 10px; /* Reduce font size for mobile */
+    padding: 4px 6px;
+  }
+
+  .pa-filter-controls input[type="text"] {
+    font-size: 10px; /* Smaller text for mobile input */
+    max-width: 150px; /* Limit width on small screens */
+  }
+}
+.disabled-button {
+  background-color: gray;
+  color: white;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.cancel-button {
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
+
+.pa-special-offers {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.pa-special-offers h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.pa-offer-card {
+  background-color: #fff;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+}
+
+.pa-offer-card h3 {
+  font-size: 20px;
+  color: #007bff;
+}
+
+.pa-offer-card p {
+  font-size: 16px;
+  color: #555;
+}
+.pa-calendar-section {
+  margin: 30px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 350px;
+}
+
+.react-calendar {
+  width: 100%;
+  border: none;
+}
+
+.react-calendar__tile.highlight-date {
+  background-color: #4CAF50 !important;
+  color: white;
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .pa-special-offers,
+  .pa-calendar-section {
+    width: 100%;
+    margin: 10px 0;
+  }
+}
+
+.completed-row {
+  background-color: #7ce9a8; /* Light green */
+  font-weight: 500;
+}
+.payment-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* overlay */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.payment-content {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 16px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  width: 90%;
+  max-width: 400px;
+}
+
+.payment-content h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.qr-code-img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.upi-input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.complete-payment-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 18px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.complete-payment-button:hover {
+  background-color: #45a049;
+}
+
+.payment-content button:last-child {
+  background-color: #ccc;
+  color: #333;
+  padding: 12px 18px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.payment-content button:last-child:hover {
+  background-color: #bbb;
+}
+.error-message {
+  color: red;
+  margin-top: 5px;
+  font-size: 14px;
+}

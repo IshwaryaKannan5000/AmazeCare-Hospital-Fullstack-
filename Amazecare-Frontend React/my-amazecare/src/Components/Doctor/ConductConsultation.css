@@ -1,0 +1,165 @@
+.consultation-steps-container {
+    max-width: 900px;
+    margin: 30px auto;
+    background-color: #ffffff;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .step-indicator {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 25px;
+    gap: 10px;
+  }
+  
+  .step {
+    flex: 1 1 22%;
+    padding: 12px 10px;
+    text-align: center;
+    border-bottom: 3px solid #ccc;
+    color: #888;
+    font-weight: 500;
+    position: relative;
+    transition: 0.3s ease;
+  }
+  
+  .step.active {
+    border-color: #007bff;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .step-form {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 25px 20px;
+  }
+  
+  .form-section h3 {
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 1.4rem;
+  }
+  
+  .form-section label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+    color: #444;
+  }
+  
+  .form-section input,
+  .form-section select,
+  .form-section textarea {
+    width: 100%;
+    padding: 10px 12px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: inherit;
+    box-sizing: border-box;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .button-group button {
+    padding: 10px 18px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    flex: 1 1 150px;
+    min-width: 120px;
+  }
+  
+  .button-group button:hover {
+    background-color: #0056b3;
+  }
+  
+  .complete-btn {
+    background-color: #28a745;
+  }
+  
+  .complete-btn:hover {
+    background-color: #1e7e34;
+  }
+  
+  /* Responsive Media Queries */
+  @media (max-width: 768px) {
+    .consultation-steps-container {
+      padding: 20px;
+    }
+  
+    .step {
+      flex: 1 1 45%;
+    }
+  
+    .button-group {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  
+    .button-group button {
+      width: 100%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .step {
+      flex: 1 1 100%;
+    }
+  
+    .form-section h3 {
+      font-size: 1.2rem;
+    }
+  }
+  .form-section label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .form-section input,
+  .form-section textarea,
+  .form-section select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  .consul-back {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .consul-back:hover {
+    background-color: #0056b3;
+  }
+  
+  

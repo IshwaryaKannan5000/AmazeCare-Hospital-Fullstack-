@@ -1,0 +1,164 @@
+/* ManagePatients.css */
+
+/* Modal overlay to cover the entire screen */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Modal content container */
+.modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 50%;
+  max-width: 600px;
+  position: relative;
+}
+
+/* Close button style */
+.modal-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+/* Modal form inputs */
+.modal-content input,
+.modal-content textarea {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.modal-content button {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.modal-content button:hover {
+  background-color: #45a049;
+}
+
+/* Shared base styles */
+.button {
+  padding: 8px 12px;
+  font-size: 14px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  min-width: 80px; /* Optional: ensures consistent width */
+}
+
+/* Specific styles */
+.edit-button {
+  background-color: #0a4275; /* blue */
+}
+
+.edit-button:hover {
+  background-color: #2779bd;
+}
+
+.delete-button {
+  background-color: #e3342f; /* red */
+}
+
+.delete-button:hover {
+  background-color: #cc1f1a;
+}
+/* Filter Section Styling */
+.filter-container {
+display: flex;
+flex-direction: column;   /* Stack the inputs vertically */
+gap: 10px;                /* Space between filter elements */
+align-items: stretch;     /* Allow inputs to fill width */
+margin-bottom: 20px;
+}
+
+/* Apply consistent width to all filter inputs, selects */
+.filter-container input,
+.filter-container select {
+padding: 10px;
+border-radius: 4px;
+border: 1px solid #ccc;
+width: 100%;              /* Inputs should take up full width */
+box-sizing: border-box;
+}
+
+/* Centered Button Section */
+.filter-buttons {
+display: flex;
+justify-content: center;   /* Center buttons horizontally */
+gap: 15px;                 /* Space between buttons */
+margin-top: 20px;          /* Space above buttons */
+}
+
+/* Style for Apply button */
+.filter-buttons .bg-deeper-blue {
+background-color: #004085;  /* Deeper blue color */
+padding: 12px 20px;         /* Larger padding for better button appearance */
+font-size: 16px;
+border-radius: 4px;
+cursor: pointer;
+text-align: center;
+}
+
+.filter-buttons .bg-deeper-blue:hover {
+background-color: #003366;  /* Darker blue on hover */
+}
+
+/* Style for Clear button */
+.filter-buttons .bg-light-gray {
+background-color: #d6d6d6;  /* Light gray */
+padding: 12px 20px;         /* Padding for the button */
+font-size: 16px;
+border-radius: 4px;
+cursor: pointer;
+text-align: center;
+}
+
+.filter-buttons .bg-light-gray:hover {
+background-color: #b0b0b0;  /* Slightly darker gray on hover */
+}
+
+/* Responsive: Stack buttons and inputs on small screens */
+@media screen and (max-width: 600px) {
+.filter-container {
+  flex-wrap: wrap;
+}
+
+.filter-container input,
+.filter-container select {
+  width: 100%;   /* Ensure inputs take full width */
+}
+
+.filter-buttons {
+  width: 100%;   /* Make buttons stretch to full width */
+  flex-direction: column;   /* Stack buttons vertically */
+}
+
+.filter-buttons button {
+  width: 100%;   /* Make each button take full width in column layout */
+}
+}

@@ -1,0 +1,58 @@
+/* DailyRoutines.css */
+.pa-daily-routines {
+    background-color: #f9f9fb;
+    border-radius: 16px;
+    padding: 20px 30px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    max-width: 500px;
+    margin: 20px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+  }
+  
+  .pa-daily-routines h3 {
+    font-size: 1.5rem;
+    color: #2c3e50;
+    margin-bottom: 16px;
+    border-left: 4px solid #3498db;
+    padding-left: 10px;
+  }
+  
+  .pa-daily-routines ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .pa-daily-routines li {
+    font-size: 1.1rem;
+    color: #34495e;
+    margin: 10px 0;
+    padding-left: 8px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .pa-daily-routines li::before {
+    content: "✔️";
+    margin-right: 10px;
+    font-size: 1rem;
+    color: #27ae60;
+  }
+
+  .back-button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    margin-bottom: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .back-button:hover {
+    background-color: #2980b9;
+  }
+  
+  

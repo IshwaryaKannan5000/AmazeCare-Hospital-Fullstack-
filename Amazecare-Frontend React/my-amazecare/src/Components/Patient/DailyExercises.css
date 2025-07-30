@@ -1,0 +1,65 @@
+.exer-daily-exercises {
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .exer-back-button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+  
+  .exer-back-button:hover {
+    background-color: #2980b9;
+  }
+  
+  .exer-daily-exercises h3 {
+    font-size: 1.8rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+  
+  .exer-daily-exercises ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .exer-daily-exercises ul li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
+  .exer-pa-card {
+    background-color: #f39c12;
+    color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.2s ease, background-color 0.3s ease;
+  }
+  
+  .exer-pa-card:hover {
+    transform: translateY(-5px);
+    background-color: #e67e22;
+  }
+  
+  .exer-pa-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  }
+  
+  .exer-pa-card p {
+    font-size: 1rem;
+    margin-top: 0;
+  }
+  

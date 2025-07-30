@@ -1,0 +1,192 @@
+/* Doctor Profile Page Styling */
+.profile-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  /* Flexbox container for doctor profile */
+  .profile-flexbox {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+  }
+  
+  /* Doctor Image Section */
+  .image-section {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .doctor-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .image-placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: #ddd;
+    border-radius: 50%;
+    color: #888;
+    font-size: 1rem;
+  }
+  
+  input[type="file"] {
+    margin-top: 10px;
+    font-size: 1rem;
+  }
+  
+  /* Doctor Details Section */
+  .details-section {
+    flex: 2;
+    font-family: 'Arial', sans-serif;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+  }
+  
+  .details-section p {
+    font-size: 1.1rem;
+    margin: 10px 0;
+  }
+  
+  .details-section strong {
+    color: #444;
+  }
+  
+  button {
+    background-color: #0a4275;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  /* Manage Time Slots Section */
+  .slot-table {
+    margin-top: 30px;
+    width: 100%;
+  }
+  
+  .slot-table table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .slot-table th {
+    background-color: #0a4275;
+    color: white;
+    padding: 12px 15px;
+    text-align: left;
+    font-size: 1rem;
+  }
+  
+  .slot-table td {
+    background-color: #f2f2f2;
+    padding: 10px 15px;
+    text-align: left;
+    font-size: 1rem;
+  }
+  
+  .slot-table tr:nth-child(even) td {
+    background-color: #fafafa;
+  }
+  
+  .slot-table tr:hover td {
+    background-color: #eaeaea;
+  }
+  
+  .slot-table button {
+    background-color: #28a745;
+    padding: 5px 10px;
+    font-size: 0.9rem;
+  }
+  
+  .slot-table button:hover {
+    background-color: #218838;
+  }
+  
+  .slot-table .edit-button {
+    background-color: #ffc107;
+  }
+  
+  .slot-table .edit-button:hover {
+    background-color: #e0a800;
+  }
+  
+  .slot-table .cancel-button {
+    background-color: #dc3545;
+  }
+  
+  .slot-table .cancel-button:hover {
+    background-color: #c82333;
+  }
+
+  .logout-section {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .logout-section button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .logout-section button:hover {
+    background-color: #e60000;
+  }
+  
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .profile-flexbox {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .details-section {
+      width: 100%;
+    }
+  
+    .slot-table {
+      margin-top: 20px;
+    }
+  }
+  

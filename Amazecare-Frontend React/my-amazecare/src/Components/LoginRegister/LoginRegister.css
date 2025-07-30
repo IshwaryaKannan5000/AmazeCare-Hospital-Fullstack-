@@ -1,0 +1,295 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f3f8fc;
+  color: #333;
+}
+
+/* Navbar */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background: linear-gradient(90deg, #0066cc, #3399ff);
+  padding: 3px 100px; /* Reduced height via padding */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  z-index: 999;
+}
+
+.navbar .logo h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar nav ul {
+  list-style: none;
+  display: flex;
+}
+
+.navbar nav ul li {
+  margin-left: 20px;
+}
+
+.navbar nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar nav ul li a:hover {
+  color: #ffdd57;
+}
+
+/* Main Container */
+.container {
+  display: flex;
+  min-height: 50vh;
+  margin: 40px auto;
+  margin-top: 130px;
+  width: 100%;
+  max-width: 700px;
+  background: white;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.left-panel {
+  flex: 1;
+  background: linear-gradient(135deg, #0073e6, #00b0ff);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.left-panel h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.left-panel p {
+  font-size: 18px;
+  text-align: center;
+}
+
+/* Right Panel (Form) */
+.right-panel {
+  flex: 1;
+  padding: 40px 30px;
+}
+
+#form-title {
+  font-size: 28px;
+  margin-bottom: 25px;
+  color: #0073e6;
+}
+
+/* Input Group */
+.input-group {
+  margin-bottom: 20px;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  font-size: 14px;
+  transition: border 0.3s ease;
+}
+
+.input-group input:focus {
+  border-color: #0073e6;
+  outline: none;
+}
+
+/* Gender Radio Buttons */
+.gender {
+  margin: 15px 0;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.gender label {
+  margin-left: 5px;
+  font-size: 14px;
+}
+
+/* Buttons */
+.register-btn {
+  width: 100%;
+  background: #0073e6;
+  color: white;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s;
+  margin-top: 10px;
+  box-shadow: 0 4px 8px rgba(0, 115, 230, 0.3);
+}
+
+.register-btn:hover {
+  background: #005bb5;
+  transform: translateY(-1px);
+}
+
+/* Links */
+p a {
+  color: #0073e6;
+  font-size: 14px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+p a:hover {
+  color: #004e99;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    border-radius: 0;
+  }
+
+  .left-panel, .right-panel {
+    width: 100%;
+    padding: 30px 20px;
+  }
+
+  .left-panel {
+    text-align: center;
+  }
+
+  .left-panel h1 {
+    font-size: 28px;
+  }
+
+  .right-panel {
+    padding-top: 20px;
+  }
+
+  #form-title {
+    font-size: 24px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .navbar .logo h1 {
+    font-size: 20px;
+  }
+
+  .navbar nav ul {
+    margin-top: 10px;
+    flex-direction: column;
+  }
+
+  .navbar nav ul li {
+    margin-left: 0;
+    margin-bottom: 8px;
+  }
+
+  .gender {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .register-btn {
+    font-size: 14px;
+    padding: 10px;
+  }
+}
+
+/* Toggle Menu Button */
+.menu-toggle {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  position: absolute; /* Make the toggle button position absolute */
+  top: 20px;  /* Adjust the distance from the top */
+  right: 20px; /* Adjust the distance from the right */
+}
+
+
+.menu-toggle .bar {
+  width: 25px;
+  height: 3px;
+  margin: 5px;
+  background-color: white;
+  border-radius: 3px;
+}
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+
+  .menu-toggle {
+    display: flex;
+  }
+}
+.nav-links.open {
+  display: block;
+  position: absolute;
+  top: 80px;  /* Adjust the distance as needed */
+  right: 0;
+  background-color:#3399ff;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 10px 20px;
+}
+
+.logo img {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.logo h1 {
+  font-size: 1.8rem;
+  color: #eff0f1;
+  font-weight: bold;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+

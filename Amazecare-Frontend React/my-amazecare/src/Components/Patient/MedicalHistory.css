@@ -1,0 +1,98 @@
+.medical-history { 
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #2c3e50;
+}
+
+.filters {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.filters input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 48%;
+}
+
+.history-list {
+    margin-top: 20px;
+}
+
+/* History Item Styles */
+.history-item {
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #f0f8ff;
+    border: 1px solid #d0e2f2;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover Effect */
+.history-item:hover {
+    background-color: #a3cbf3;
+}
+
+/* Highlight the most recent history in light green */
+.history-item.recent {
+    background-color: #d3f9d8; /* Light green for the most recent entry */
+    border: 1px solid #a3d9a5; /* Slightly darker border */
+}
+
+/* Summary Section */
+.history-summary p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+/* History Details */
+.history-details {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #7cbff0;
+    border-left: 4px solid #2196f3;
+    border-radius: 8px;
+    font-size: 14px;
+}
+
+.no-records {
+    text-align: center;
+    color: #888;
+    font-style: italic;
+    margin-top: 40px;
+}
+
+/* Input Fields for Filters */
+input[type="text"], input[type="date"] {
+    background-color: #ADD8E6; /* Light blue color */
+    border: 1px solid #ccc;    /* Light border for the input */
+    padding: 8px;              /* Padding inside the input */
+    border-radius: 4px;        /* Rounded corners */
+    font-size: 14px;   
+    color: black;              /* Adjust font color */
+}
+
+@media (max-width: 768px) {
+    .filters {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .filters input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
