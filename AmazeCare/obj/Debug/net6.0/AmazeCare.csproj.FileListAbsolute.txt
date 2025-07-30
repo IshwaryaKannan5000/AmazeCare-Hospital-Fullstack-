@@ -1,0 +1,154 @@
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\AmazeCare.exe
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\AmazeCare.deps.json
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\AmazeCare.runtimeconfig.json
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\AmazeCare.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\AmazeCare.pdb
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.AssemblyInfo.cs
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.sourcelink.json
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\staticwebassets\msbuild.AmazeCare.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\staticwebassets\msbuild.build.AmazeCare.props
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AmazeCare.props
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AmazeCare.props
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\scopedcss\bundle\AmazeCare.styles.css
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.csproj.Up2Date
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.dll
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\refint\AmazeCare.dll
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.pdb
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\AmazeCare.genruntimeconfig.cache
+C:\Users\HP\source\repos\AmazeCare\obj\Debug\net6.0\ref\AmazeCare.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\AmazeCare.exe
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\AmazeCare.deps.json
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\AmazeCare.runtimeconfig.json
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\AmazeCare.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\AmazeCare.pdb
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.sourcelink.json
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\staticwebassets\msbuild.AmazeCare.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\staticwebassets\msbuild.build.AmazeCare.props
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AmazeCare.props
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AmazeCare.props
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\scopedcss\bundle\AmazeCare.styles.css
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.csproj.Up2Date
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\refint\AmazeCare.dll
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.pdb
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\AmazeCare.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\AmazeCare (7)\AmazeCare\obj\Debug\net6.0\ref\AmazeCare.dll

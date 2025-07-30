@@ -1,0 +1,1259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\service\\prescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:service\\prescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\iprescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\iprescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\repositories\\prescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:repositories\\prescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\itimeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\itimeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\repositories\\timeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:repositories\\timeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\timeslotcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\timeslotcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Migrations\\20250510201459_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250510201459_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\foodtiming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\foodtiming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\medicaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\medicaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FA5587-FF65-4A43-AC2F-1C1C8FFB4B00}|..\\..\\AmazeCare (5)\\AmazecareTest\\AmazecareTest.csproj|c:\\users\\lenovo\\downloads\\amazecare (5)\\amazecaretest\\prescriptioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FA5587-FF65-4A43-AC2F-1C1C8FFB4B00}|..\\..\\AmazeCare (5)\\AmazecareTest\\AmazecareTest.csproj|c:\\users\\lenovo\\downloads\\amazecare (5)\\amazecaretest\\prescriptionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FA5587-FF65-4A43-AC2F-1C1C8FFB4B00}|..\\..\\AmazeCare (5)\\AmazecareTest\\AmazecareTest.csproj|c:\\users\\lenovo\\downloads\\amazecare (5)\\amazecaretest\\patientupdateservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FA5587-FF65-4A43-AC2F-1C1C8FFB4B00}|..\\..\\AmazeCare (5)\\AmazecareTest\\AmazecareTest.csproj|c:\\users\\lenovo\\downloads\\amazecare (5)\\amazecaretest\\adminservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\amazecare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:amazecare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\controllers\\patientauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:controllers\\patientauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\contexts\\amazecarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:contexts\\amazecarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\doctordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\doctordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\patientuserviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\patientuserviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\service\\adminservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:service\\adminservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\service\\patientupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:service\\patientupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\specialitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\specialitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\updatedoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\updatedoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\repositories\\medicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:repositories\\medicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\repositories\\emergencycontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:repositories\\emergencycontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\service\\medicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:service\\medicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\imedicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\imedicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\imedicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\imedicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\controllers\\medicaltestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:controllers\\medicaltestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\imedicaltestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\imedicaltestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\service\\medicaltestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:service\\medicaltestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\service\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:service\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\imedicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\imedicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\controllers\\patientupdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:controllers\\patientupdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\iemergencycontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\iemergencycontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\timeslotviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\timeslotviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\timeslotupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\timeslotupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\patientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\patientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\patientprofileresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\patientprofileresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\createpatientprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\createpatientprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\patientuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\patientuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\models\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:models\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|c:\\users\\lenovo\\downloads\\amazecare (7)\\amazecare\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CA866A9-813F-405A-BC95-2E7E90A64049}|AmazeCare.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\AmazecareTest\\coveragereport\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\AmazecareTest\\IDGeneratorServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\AmazecareTest\\AdminServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:30:26.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:29:00.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrescriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\PrescriptionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PrescriptionRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\PrescriptionRepository.cs",
+              "RelativeToolTip": "Repositories\\PrescriptionRepository.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAwJUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:33:21.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrescriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IPrescriptionRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPrescriptionRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IPrescriptionRepository.cs",
+              "RelativeToolTip": "Interfaces\\IPrescriptionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:34:25.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrescriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\PrescriptionService.cs",
+              "RelativeDocumentMoniker": "Service\\PrescriptionService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\PrescriptionService.cs",
+              "RelativeToolTip": "Service\\PrescriptionService.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAcwEkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:44:21.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Service\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\DoctorService.cs",
+              "RelativeToolTip": "Service\\DoctorService.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAQwH0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:17:24.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITimeSlotRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\ITimeSlotRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITimeSlotRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\ITimeSlotRepository.cs",
+              "RelativeToolTip": "Interfaces\\ITimeSlotRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:26:43.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimeSlotRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\TimeSlotRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TimeSlotRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\TimeSlotRepository.cs",
+              "RelativeToolTip": "Repositories\\TimeSlotRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:23:59.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimeSlotCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\TimeSlotCreateDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\TimeSlotCreateDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\TimeSlotCreateDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\TimeSlotCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:05:44.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:45:21.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\TokenService.cs",
+              "RelativeToolTip": "Service\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:52:41.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\AuthService.cs",
+              "RelativeToolTip": "Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:50:27.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250510201459_init.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Migrations\\20250510201459_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250510201459_init.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Migrations\\20250510201459_init.cs",
+              "RelativeToolTip": "Migrations\\20250510201459_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:14:59.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:15:45.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:33:31.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T07:10:06.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FoodTiming.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\FoodTiming.cs",
+              "RelativeDocumentMoniker": "Models\\FoodTiming.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\FoodTiming.cs",
+              "RelativeToolTip": "Models\\FoodTiming.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:39:41.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "Models\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\MedicalRecord.cs",
+              "RelativeToolTip": "Models\\MedicalRecord.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:44:54.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrescriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\PrescriptionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrescriptionController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\PrescriptionController.cs",
+              "RelativeToolTip": "Controllers\\PrescriptionController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:48:01.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MedicalTest.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\MedicalTest.cs",
+              "RelativeDocumentMoniker": "Models\\MedicalTest.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\MedicalTest.cs",
+              "RelativeToolTip": "Models\\MedicalTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:29:57.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "Models\\Medicine.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\Medicine.cs",
+              "RelativeToolTip": "Models\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:28:56.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Specialty.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\Specialty.cs",
+              "RelativeDocumentMoniker": "Models\\Specialty.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\Specialty.cs",
+              "RelativeToolTip": "Models\\Specialty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:27:15.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "Models\\TimeSlot.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\TimeSlot.cs",
+              "RelativeToolTip": "Models\\TimeSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:09:50.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:59:58.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PatientUpdateServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (5)\\AmazecareTest\\PatientUpdateServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\AmazeCare (5)\\AmazecareTest\\PatientUpdateServiceTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (5)\\AmazecareTest\\PatientUpdateServiceTests.cs",
+              "RelativeToolTip": "..\\..\\AmazeCare (5)\\AmazecareTest\\PatientUpdateServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:47:11.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PrescriptionServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (5)\\AmazecareTest\\PrescriptionServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\AmazeCare (5)\\AmazecareTest\\PrescriptionServiceTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (5)\\AmazecareTest\\PrescriptionServiceTests.cs",
+              "RelativeToolTip": "..\\..\\AmazeCare (5)\\AmazecareTest\\PrescriptionServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:47:13.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PrescriptionControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (5)\\AmazecareTest\\PrescriptionControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\AmazeCare (5)\\AmazecareTest\\PrescriptionControllerTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (5)\\AmazecareTest\\PrescriptionControllerTests.cs",
+              "RelativeToolTip": "..\\..\\AmazeCare (5)\\AmazecareTest\\PrescriptionControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:48:42.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (5)\\AmazecareTest\\AdminServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\AmazeCare (5)\\AmazecareTest\\AdminServiceTest.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (5)\\AmazecareTest\\AdminServiceTest.cs",
+              "RelativeToolTip": "..\\..\\AmazeCare (5)\\AmazecareTest\\AdminServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:45:31.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\PatientService.cs",
+              "RelativeDocumentMoniker": "Service\\PatientService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\PatientService.cs",
+              "RelativeToolTip": "Service\\PatientService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwGkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:40:39.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AmazeCare.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\AmazeCare.csproj",
+              "RelativeDocumentMoniker": "AmazeCare.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\AmazeCare.csproj",
+              "RelativeToolTip": "AmazeCare.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T06:07:18.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PatientAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\PatientAuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientAuthController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\PatientAuthController.cs",
+              "RelativeToolTip": "Controllers\\PatientAuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwEsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:43:10.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:11:59.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DoctorDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\DoctorDetailsDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\DoctorDetailsDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\DoctorDetailsDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\DoctorDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:04:17.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:44:14.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AmazecareTest\\coveragereport\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\HP\\source\\repos\\AmazecareTest\\coveragereport\\index.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AmazecareTest\\coveragereport\\index.html",
+              "RelativeToolTip": "..\\..\\..\\..\\HP\\source\\repos\\AmazecareTest\\coveragereport\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-05T14:58:54.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IDGeneratorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AmazecareTest\\IDGeneratorServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\HP\\source\\repos\\AmazecareTest\\IDGeneratorServiceTests.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AmazecareTest\\IDGeneratorServiceTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\HP\\source\\repos\\AmazecareTest\\IDGeneratorServiceTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:43:16.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AdminServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AmazecareTest\\AdminServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\HP\\source\\repos\\AmazecareTest\\AdminServiceTest.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AmazecareTest\\AdminServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\HP\\source\\repos\\AmazecareTest\\AdminServiceTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:44:26.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AmazecareContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Contexts\\AmazecareContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\AmazecareContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Contexts\\AmazecareContext.cs",
+              "RelativeToolTip": "Contexts\\AmazecareContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:48:40.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PatientUserViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\PatientUserViewDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\PatientUserViewDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\PatientUserViewDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\PatientUserViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:57:51.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminService .cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\AdminService .cs",
+              "RelativeDocumentMoniker": "Service\\AdminService .cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\AdminService .cs",
+              "RelativeToolTip": "Service\\AdminService .cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAuwMEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:48:03.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwEgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:45:47.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:07:34.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Service\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\AppointmentService.cs",
+              "RelativeToolTip": "Service\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:32:25.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PatientUpdateService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\PatientUpdateService.cs",
+              "RelativeDocumentMoniker": "Service\\PatientUpdateService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\PatientUpdateService.cs",
+              "RelativeToolTip": "Service\\PatientUpdateService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:58:09.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateDoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\UpdateDoctorDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UpdateDoctorDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\UpdateDoctorDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\UpdateDoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:35:16.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SpecialityDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\SpecialityDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\SpecialityDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\SpecialityDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\SpecialityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:11:52.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MedicalRecordController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\MedicalRecordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicalRecordController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\MedicalRecordController.cs",
+              "RelativeToolTip": "Controllers\\MedicalRecordController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:47:13.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:08:56.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppointmentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\AppointmentResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\AppointmentResponseDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\AppointmentResponseDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\AppointmentResponseDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:16:06.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:12:49.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeToolTip": "Interfaces\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:08:30.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:08:01.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MedicalRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\MedicalRecordRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MedicalRecordRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\MedicalRecordRepository.cs",
+              "RelativeToolTip": "Repositories\\MedicalRecordRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:09:11.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EmergencyContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\EmergencyContactRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmergencyContactRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\EmergencyContactRepository.cs",
+              "RelativeToolTip": "Repositories\\EmergencyContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:32:12.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwCgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:38:22.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IMedicalRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IMedicalRecordRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMedicalRecordRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IMedicalRecordRepository.cs",
+              "RelativeToolTip": "Interfaces\\IMedicalRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:09:48.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IMedicalRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IMedicalRecordService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMedicalRecordService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IMedicalRecordService.cs",
+              "RelativeToolTip": "Interfaces\\IMedicalRecordService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:07:59.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MedicalRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\MedicalRecordService.cs",
+              "RelativeDocumentMoniker": "Service\\MedicalRecordService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\MedicalRecordService.cs",
+              "RelativeToolTip": "Service\\MedicalRecordService.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAqwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:08:29.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IMedicalTestService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IMedicalTestService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMedicalTestService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IMedicalTestService.cs",
+              "RelativeToolTip": "Interfaces\\IMedicalTestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:08:01.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MedicalTestService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\MedicalTestService.cs",
+              "RelativeDocumentMoniker": "Service\\MedicalTestService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\MedicalTestService.cs",
+              "RelativeToolTip": "Service\\MedicalTestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:08:28.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MedicalTestController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\MedicalTestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicalTestController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\MedicalTestController.cs",
+              "RelativeToolTip": "Controllers\\MedicalTestController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:10:15.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MedicineService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\MedicineService.cs",
+              "RelativeDocumentMoniker": "Service\\MedicineService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Service\\MedicineService.cs",
+              "RelativeToolTip": "Service\\MedicineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:46:40.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IMedicineService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IMedicineService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMedicineService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IMedicineService.cs",
+              "RelativeToolTip": "Interfaces\\IMedicineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:46:00.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicineController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "Controllers\\MedicineController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:47:37.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PatientUpdateController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\PatientUpdateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientUpdateController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Controllers\\PatientUpdateController.cs",
+              "RelativeToolTip": "Controllers\\PatientUpdateController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:48:10.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IEmergencyContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IEmergencyContactRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmergencyContactRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IEmergencyContactRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEmergencyContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:32:01.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:39:22.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "TimeSlotUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\TimeSlotUpdateDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\TimeSlotUpdateDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\TimeSlotUpdateDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\TimeSlotUpdateDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:27:20.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Interfaces\\IPatientRepository.cs",
+              "RelativeToolTip": "Interfaces\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:40:47.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TimeSlotViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\TimeSlotViewDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\TimeSlotViewDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\TimeSlotViewDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\TimeSlotViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:27:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PatientProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\PatientProfile.cs",
+              "RelativeDocumentMoniker": "Models\\PatientProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\PatientProfile.cs",
+              "RelativeToolTip": "Models\\PatientProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:43:35.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PatientUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\PatientUserDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\PatientUserDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\PatientUserDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\PatientUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:49:16.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CreatePatientProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\CreatePatientProfileDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CreatePatientProfileDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\CreatePatientProfileDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\CreatePatientProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:39:07.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PatientProfileResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\PatientProfileResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\PatientProfileResponseDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\PatientProfileResponseDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\PatientProfileResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:39:41.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\PatientDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\Models\\DTOs\\PatientDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\PatientDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:46:32.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\AmazeCare (7)\\AmazeCare\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T07:19:48.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
